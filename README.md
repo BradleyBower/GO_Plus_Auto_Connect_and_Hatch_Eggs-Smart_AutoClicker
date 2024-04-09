@@ -27,7 +27,7 @@ GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker, made by Peter Yu.
 
 ### 使用步驟：
   1. 在Pokémon Go中，將手環連線<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/GO%20Plus.png" width="20px">。
-  2. 在Smart AutoClicker中運行 *GO Plus 自動連線 與孵蛋* 腳本，並開始腳本。    
+  2. 在Smart AutoClicker中運行 *GO Plus 自動連線 與孵蛋* 腳本，並開始腳本，再切回到Pokémon Go中。    
      <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/Smart%20AutoClicker.png" width="300px">
      <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/Smart%20AutoClicker%20start.png" height="155px">
   4. 正常外出且不需操作手機，但不要關閉螢幕，腳本將會在手環斷線時自動重新連線，並在有蛋孵化時，自動將新的蛋裝入孵蛋器。
