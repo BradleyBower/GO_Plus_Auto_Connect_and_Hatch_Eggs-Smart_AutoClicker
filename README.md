@@ -22,7 +22,7 @@ GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker, made by Peter Yu.
 [2]: https://github.com/Nain57/Smart-AutoClicker
 
 ## How to use, For users
-使用者在手機上安裝Smart AutoClicker後，可以直接下載 *GO Plus 自動連線 與孵蛋.zip* 的壓縮檔，再點選右上角資料夾圖示<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/import.png" width="20px">進行Import backup，將 *GO Plus 自動連線 與孵蛋.zip* 匯入，之後即可使用腳本。    
+使用者在手機上安裝Smart AutoClicker後，可以直接下載 *GO Plus 自動連線 與孵蛋.zip* 的壓縮檔，再從Smart AutoClicker中點選右上角資料夾圖示<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/import.png" width="20px">進行Import backup，將 *GO Plus 自動連線 與孵蛋.zip* 匯入，之後即可使用腳本。    
 <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/import%20backup.png" width="200px">
 
 ### 使用步驟：
