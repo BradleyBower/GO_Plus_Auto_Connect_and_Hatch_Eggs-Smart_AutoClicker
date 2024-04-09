@@ -31,7 +31,8 @@ GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker, made by Peter Yu.
      <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/Smart%20AutoClicker.png" width="300px">
      <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/Smart%20AutoClicker%20start.png" height="155px">
   4. 正常外出且不需操作手機，但不要關閉螢幕，腳本將會在手環斷線時自動重新連線，並在有蛋孵化時，自動將新的蛋裝入孵蛋器。
-  5. 享受自動重新連線帶來的便利。
+  5. 享受腳本帶來的便利。
+     
 - 注意，在自動重新連線過程中，仍然建議時不時觀察是否有錯誤狀況發生，且此腳本會點選不使用時時刻刻功能。
 
 ## Make updates, For Developers or the future ?
