@@ -1,2 +1,22 @@
 # GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker
-A Smart AutoClicker script that automatically reconnect GO Plus and hatch eggs in Pokémon GO.
+> 一個在Pokémon GO中自動重新連線GO Plus和孵蛋的Smart AutoClicker腳本。    
+> A Smart AutoClicker script that automatically reconnect GO Plus and hatch eggs in Pokémon GO.
+
+### ❗ 警告：僅以此練習腳本製作，在遊戲中請謹慎使用。 ❗    
+### ❗ WARNING: Practice script only, please use with caution in the game. ❗    
+<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/icon.png" width="300px">
+
+## Foreword
+在Pokémon GO中，有一種官方發行的輔助工具，可以讓玩家在不操作手機的情況下捕捉寶可夢或旋轉補給站，這項工具稱為Pokémon GO Plus (或更新的Pokémon GO Plus+)，俗稱手環，許多玩家在外出不方便操作手機時會使用手環來遊玩遊戲或孵蛋，但在遊戲官方的設計中，手環在連接上遊戲後的一個小時會固定斷線，這時，如果沒有及時發現並重新連線手環，可能會帶來遊玩效率上的損失。
+
+## Overview
+這個腳本基於Smart AutoClicker，讓玩家可以在手環斷線時實現自動重新連線，並在有蛋孵化時，自動將新的蛋裝入孵蛋器。
+
+設備和軟體要求：
+  1. 一支有玩Pokémon Go的手機。
+  2. 安裝Smart AutoClicker ([Google Play][1], [Github][2])，這個程式可通過自動點擊螢幕來自動執行手機上的重複性任務，並且與一般點擊器不同，它可以檢測圖像操作，不過長期使用或視情況需要付費。
+
+[1]: https://play.google.com/store/apps/details?id=com.buzbuz.smartautoclicker
+[2]: https://github.com/Nain57/Smart-AutoClicker
+
+## How to use, For users
