@@ -1,4 +1,6 @@
 # GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker
+
+GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker, made by Peter Yu.
 > 一個在Pokémon GO中自動重新連線GO Plus和孵蛋的Smart AutoClicker腳本。    
 > A Smart AutoClicker script that automatically reconnect GO Plus and hatch eggs in Pokémon GO.
 
@@ -20,3 +22,22 @@
 [2]: https://github.com/Nain57/Smart-AutoClicker
 
 ## How to use, For users
+使用者在手機上安裝Smart AutoClicker後，可以直接下載 *GO Plus 自動連線 與孵蛋.zip* 的壓縮檔，再點選右上角資料夾圖示<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/import.png" width="20px">進行Import backup，將 *GO Plus 自動連線 與孵蛋.zip* 匯入，之後即可使用腳本。    
+<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/import%20backup.png" width="200px">
+
+### 使用步驟：
+  1. 在Pokémon Go中，將手環連線<img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/GO%20Plus.png" width="20px">。
+  2. 在Smart AutoClicker中運行 *GO Plus 自動連線 與孵蛋* 腳本，並開始腳本。    
+     <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/Smart%20AutoClicker.png" width="300px">
+     <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/Smart%20AutoClicker%20start.png" height="155px">
+  4. 正常外出且不需操作手機，但不要關閉螢幕，腳本將會在手環斷線時自動重新連線，並在有蛋孵化時，自動將新的蛋裝入孵蛋器。
+  5. 享受自動重新連線帶來的便利。
+- 注意，在自動重新連線過程中，仍然建議時不時觀察是否有錯誤狀況發生，且此腳本會點選不使用時時刻刻功能。
+
+## Make updates, For Developers or the future ?
+這個腳本是基於我的手機 (realme 7 5G)所製作的，因各廠牌手機的螢幕解析度或螢幕大小不同，腳本可能會有不能正常運行的狀況，如有發生，可以自行修改腳本裡流程的Conditions或Actions，我在流程中都有打上各步驟的敘述，很好修改。
+
+---
+
+### ❗ 再次警告：僅以此練習腳本製作，在遊戲中請謹慎使用。 ❗    
+### ❗ WARNING AGAIN: Practice script only, please use with caution in the game. ❗
