@@ -9,7 +9,7 @@ GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker, made by Peter Yu.
 <img src= "https://github.com/peter890331/GO_Plus_Auto_Connect_and_Hatch_Eggs-Smart_AutoClicker/blob/figures/icon.png" width="300px">
 
 ## Foreword
-在Pokémon GO中，有一種官方發行的輔助工具，可以讓玩家在不操作手機的情況下捕捉寶可夢或旋轉補給站，這項工具稱為Pokémon GO Plus (或更新的Pokémon GO Plus+)，俗稱手環，許多玩家在外出不方便操作手機時會使用手環來遊玩遊戲或孵蛋，但在遊戲官方的設計中，手環在連接上遊戲後的一個小時會固定斷線，這時，如果沒有及時發現並重新連線手環，可能會帶來遊玩效率上的損失。
+在Pokémon GO中，有一種官方發行的輔助工具，可以讓玩家在不操作手機的情況下捕捉寶可夢或旋轉補給站，這種工具稱為Pokémon GO Plus (或更新的Pokémon GO Plus+)，俗稱手環，許多玩家在外出不方便操作手機時會使用手環來遊玩遊戲或孵蛋，但在遊戲官方的設計中，手環在連接上遊戲後的一個小時會固定斷線，這時，如果沒有及時發現並重新連線手環，可能會帶來遊玩效率上的損失。
 
 ## Overview
 這個腳本基於Smart AutoClicker，讓玩家可以在手環斷線時實現自動重新連線，並在有蛋孵化時，自動將新的蛋裝入孵蛋器。
